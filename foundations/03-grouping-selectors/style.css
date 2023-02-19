@@ -1,0 +1,13 @@
+.red {
+    background-color: red;
+    color: white
+}
+
+.green {
+    background-color: green;
+}
+
+button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
